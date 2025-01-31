@@ -1,5 +1,5 @@
 
-# ![hotmilk.studio](https://r2.grapefruit.host/hotmilktext.png)
+# ![hotmilk.studio]([https://r2.grapefruit.host/hotmilktext.png](https://r2.hotmilk.studio/hotmilktext.png))
 
 🌐 [Visit Us](https://hotmilk.studio)
 
